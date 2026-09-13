@@ -1,6 +1,6 @@
 <?php
 echo "<h2>Manipulación de Texto (Strings)</h2>";
-$mensaje = "Aprendiendo programación en PHP";
+$mensaje = "programación en PHP";
 
 // 1. Contar caracteres
 echo "La frase tiene: " . strlen($mensaje) . " caracteres.<br>";
